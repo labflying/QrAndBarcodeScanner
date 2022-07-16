@@ -16,7 +16,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.example.barcodescanner"
+        applicationId "qrcode.scanner.barcodescanner"
         minSdkVersion 21
         targetSdkVersion 31
         versionCode 12
